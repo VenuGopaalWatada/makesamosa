@@ -1,2 +1,2 @@
 # makesamosa
-This website describes how to prepare samore
+This website describes how to prepare samosa
